@@ -47,7 +47,7 @@ I'm a business sophomore 🎓 from Singapore Management University 🏛 & a soft
 ### Projects:
 1. Full Stack Application built using Firebase, Chakra UI, React Hook Form, Redux-Toolkit: [Full Stack Application Github Repo](https://spiritoftime.github.io/frontend-mentor-invoice-app/) | [Deployed Link](https://spiritoftime.github.io/frontend-mentor-invoice-app/)
 2. Multi-page Website built using React and React Router: [Multi-page-Website Github Repo](https://spiritoftime.github.io/frontend-mentor-coffee/) | [Deployed Link](https://spiritoftime.github.io/frontend-mentor-coffee/)
-3. Password Generator App built using React: [Password Generator Github Repo](https://spiritoftime.github.io/frontend-mentor-password-generator/) | [Deployed Link] (https://spiritoftime.github.io/frontend-mentor-password-generator/)
+3. Password Generator App built using React: [Password Generator Github Repo](https://spiritoftime.github.io/frontend-mentor-password-generator/) | [Deployed Link](https://spiritoftime.github.io/frontend-mentor-password-generator/)
 
 #### README Credit:
 https://github.com/iampavangandhi/iampavangandhi

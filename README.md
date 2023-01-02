@@ -1,5 +1,5 @@
 
-## Hey 👋, I'm [Choo Liang Yi!]([https://github.com/iampavangandhi/](https://github.com/spiritoftime))
+## Hey 👋, I'm [Choo Liang Yi!](https://github.com/spiritoftime)
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/choo-liang-yi)
 
@@ -18,7 +18,7 @@ I'm a business sophomore 🎓 from Singapore Management University 🏛 & a soft
 - 💻 &nbsp; I love exploring new stuff! This semester, I will be exploring Digital Marketing for my business degree. Tech-wise, I am aiming to build a MERN stack application. As for other interests, I will be looking to try out boxing!
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/spiritoftime).
 - 📫 &nbsp; How to reach me: lychoo.2021@business.smu.edu.sg.
-- 📝 &nbsp; Checkout my [Resume](https://github.com/spiritoftime/spiritoftime/blob/main/Proper_resume.pdf).
+- 📝 &nbsp; Checkout my [Resume](https://github.com/spiritoftime/spiritoftime/blob/main/Proper_resume%20(1).pdf).
 
 
 

@@ -18,7 +18,7 @@ I'm a business sophomore 🎓 from Singapore Management University 🏛 & a soft
 - 💻 &nbsp; I love exploring new stuff! This semester, I will be exploring Digital Marketing for my business degree. Tech-wise, I am aiming to build a MERN stack application. As for other interests, I will be looking to try out boxing!
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/spiritoftime).
 - 📫 &nbsp; How to reach me: lychoo.2021@business.smu.edu.sg.
-- 📝 &nbsp; Checkout my [Resume](https://github.com/spiritoftime/spiritoftime/blob/main/Proper_resume%20(1).pdf).
+- 📝 &nbsp; Checkout my [Resume](https://github.com/spiritoftime/spiritoftime/blob/main/My__resume.pdf).
 
 
 

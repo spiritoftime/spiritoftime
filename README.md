@@ -18,7 +18,7 @@ I'm a business sophomore 🎓 from Singapore Management University 🏛 & a soft
 - 💻 &nbsp; I love exploring new stuff! This semester, I will be exploring Digital Marketing for my business degree. Tech-wise, I am aiming to build a MERN stack application. As for other interests, I will be looking to try out boxing!
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/spiritoftime).
 - 📫 &nbsp; How to reach me: lychoo.2021@business.smu.edu.sg.
-- 📝 &nbsp; Checkout my [Resume](https://github.com/spiritoftime/spiritoftime/blob/main/Choo__Liang__Yi__Resume.pdf).
+- 📝 &nbsp; Checkout my [Resume](https://github.com/spiritoftime/spiritoftime/blob/main/Proper_resume.pdf).
 
 
 
@@ -42,9 +42,10 @@ I'm a business sophomore 🎓 from Singapore Management University 🏛 & a soft
 -->
 
 ### Projects:
-1. Full Stack Application built using Firebase, Chakra UI, React Hook Form, Redux-Toolkit: [Full Stack Application Github Repo](https://github.com/spiritoftime/frontend-mentor-invoice-app) | [Deployed Link](https://spiritoftime.github.io/frontend-mentor-invoice-app/)
-2. Multi-page Website built using React and React Router: [Multi-page-Website Github Repo](https://github.com/spiritoftime/frontend-mentor-coffee) | [Deployed Link](https://spiritoftime.github.io/frontend-mentor-coffee/)
-3. Password Generator App built using React: [Password Generator Github Repo](https://github.com/spiritoftime/frontend-mentor-password-generator) | [Deployed Link](https://spiritoftime.github.io/frontend-mentor-password-generator/)
+1. Full Stack Application built using Express, Mongodb, React, Tailwind, React Hook Form : [Full Stack Application Github Repo (frontend)](https://github.com/spiritoftime/entertainment-frontend) | [Full Stack Application Github Repo (backend)](https://github.com/spiritoftime/entertainment-backend) | [Deployed Link](https://spiritandtime-movie-app.onrender.com/)
+2. Full Stack Application built using Firebase, Chakra UI, React Hook Form, Redux-Toolkit: [Full Stack Application Github Repo](https://github.com/spiritoftime/frontend-mentor-invoice-app) | [Deployed Link](https://spiritoftime.github.io/frontend-mentor-invoice-app/)
+3. Multi-page Website built using React and React Router: [Multi-page-Website Github Repo](https://github.com/spiritoftime/frontend-mentor-coffee) | [Deployed Link](https://spiritoftime.github.io/frontend-mentor-coffee/)
+4. Password Generator App built using React: [Password Generator Github Repo](https://github.com/spiritoftime/frontend-mentor-password-generator) | [Deployed Link](https://spiritoftime.github.io/frontend-mentor-password-generator/)
 
 #### README Credit:
 https://github.com/iampavangandhi/iampavangandhi

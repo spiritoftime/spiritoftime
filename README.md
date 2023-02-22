@@ -6,7 +6,7 @@
 
 ### Glad to see you here! 
 
-I'm a business sophomore 🎓 from Singapore Management University 🏛 & a software engineering bootcamper at Rocket Academy. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies & domains and leverage them to solve real-life problems ✨. I'm currently into Web Development 🕸️ and trying out Digital Marketing 🤓.
+I'm a business sophomore 🎓 from Singapore Management University 🏛 & a software engineering bootcamper at Rocket Academy. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies & domains and leverage them to solve real-life problems ✨. I'm currently into Web Development 🕸️ and learning about consumer research 🤓.
 
 
 
@@ -15,7 +15,7 @@ I'm a business sophomore 🎓 from Singapore Management University 🏛 & a soft
 <img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
 
 ### Talking about Personal Stuffs:
-- 💻 &nbsp; I love exploring new stuff! This semester, I will be exploring Digital Marketing for my business degree. Tech-wise, I am aiming to build a MERN stack application. As for other interests, I will be looking to try out boxing!
+- 💻 &nbsp; I love exploring new stuff! Next semester, I will be exploring Digital Marketing for my business degree. 
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/spiritoftime).
 - 📫 &nbsp; How to reach me: lychoo.2021@business.smu.edu.sg.
 - 📝 &nbsp; Checkout my [Resume](https://github.com/spiritoftime/spiritoftime/blob/main/Proper_resume.pdf).

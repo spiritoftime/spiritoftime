@@ -15,10 +15,10 @@ I'm a business sophomore 🎓 from Singapore Management University 🏛 & a soft
 <img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
 
 ### Talking about Personal Stuffs:
-- 💻 &nbsp; I love exploring new stuff! Next semester, I will be exploring Digital Marketing for my business degree. 
+- 💻 &nbsp; I love exploring new stuff! Next semester, I will be exploring Object Oriented Programming using Java 
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/spiritoftime).
 - 📫 &nbsp; How to reach me: lychoo.2021@business.smu.edu.sg.
-- 📝 &nbsp; Checkout my [Resume](https://github.com/spiritoftime/spiritoftime/blob/main/Proper_resume.pdf).
+- 📝 &nbsp; Checkout my [Resume](https://github.com/spiritoftime/spiritoftime/blob/main/Proper_resume%20(3).pdf).
 
 
 
